@@ -1,6 +1,6 @@
 //variable and data types
-let name="tarun";
-const rollno=1;
+let name="aliya";
+const rollno=3;
 let bool = true;
 var mood = null;
 let project;
@@ -64,7 +64,7 @@ function square(a){
 console.log(square(22));
 
 const greet = (username) => console.log(`welcome ${username}`);
-greet("tarun");
+greet("aliya");
 
 //callback practice
 
